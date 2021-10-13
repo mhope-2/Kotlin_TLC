@@ -1,4 +1,5 @@
 package com.mhope.kt1
 
-class Hello {
+fun main() {
+    println("Hello, World!")
 }
